@@ -17,7 +17,7 @@ Big honor to Scott, he has given us so much material to learn FP and F# from. Th
 - **Pro ASP.NET Core MVC** by Freeman Adam (https://www.apress.com/gp/book/9781484203972)<br>
 Nice book, served me as a better documentation. It is very specific thought and I didn't find the examples very good in terms of general programming architecture, but very good for this specific enviroment.
 
-- CLR via C# by Jeffrey Richter (https://www.amazon.com/CLR-via-4th-Developer-Reference/dp/0735667454v)
+- **CLR via C#** by Jeffrey Richter (https://www.amazon.com/CLR-via-4th-Developer-Reference/dp/0735667454v)
 
 ## PHP
 
