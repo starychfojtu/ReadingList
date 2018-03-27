@@ -34,4 +34,4 @@ Good read for someone starting in PHP !
 
 ## Machine learning etc.
 
-- Recommender Systems Handbook (http://www.springer.com/us/book/9780387858203)
+- **Recommender Systems Handbook** (http://www.springer.com/us/book/9780387858203)
