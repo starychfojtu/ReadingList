@@ -4,6 +4,8 @@
 
 - **The Pragmatic Programmer: From Journeyman to Master** by Andrew Hunt, David Thomas (https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 
+- **Coders at Work** by Peter Seibel (http://www.codersatwork.com/)
+
 ## Functional programming
 
 - **Functional Programming in Scala** by Paul Chiusano and Runar Bjarnason (https://www.manning.com/books/functional-programming-in-scala)<br>
@@ -30,6 +32,6 @@ Very good introduction to building REST APIS, it teaches you how really should R
 - **PHP the right way** by Josh Lockhart (http://www.phptherightway.com/)<br>
 Good read for someone starting in PHP !
 
-## Machine learning
+## Machine learning etc.
 
-- searching for recommendations
+- Recommender Systems Handbook (http://www.springer.com/us/book/9780387858203)
