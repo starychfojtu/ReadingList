@@ -6,6 +6,8 @@
 
 - **Coders at Work** by Peter Seibel (http://www.codersatwork.com/)
 
+- **Art of UNIX programming** by Eric S. Raymond (http://www.catb.org/esr/writings/taoup/)
+
 ## Functional programming
 
 - **Functional Programming in Scala** by Paul Chiusano and Runar Bjarnason (https://www.manning.com/books/functional-programming-in-scala)<br>
