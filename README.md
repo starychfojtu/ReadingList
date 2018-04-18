@@ -8,6 +8,8 @@
 
 - **Art of UNIX programming** by Eric S. Raymond (http://www.catb.org/esr/writings/taoup/)
 
+- **The Mythical Man-Month: Essays on Software Engineering** by Frederick P. Brooks Jr. (https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month)
+
 ## Functional programming
 
 - **Functional Programming in Scala** by Paul Chiusano and Runar Bjarnason (https://www.manning.com/books/functional-programming-in-scala)<br>
