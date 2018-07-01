@@ -36,6 +36,11 @@ Very good introduction to building REST APIS, it teaches you how really should R
 - **PHP the right way** by Josh Lockhart (http://www.phptherightway.com/)<br>
 Good read for someone starting in PHP !
 
-## Machine learning etc.
+## Others
 
 - **Recommender Systems Handbook** (http://www.springer.com/us/book/9780387858203)
+
+## Papers
+
+- **What we talk about when we talk about monads** by Tomas Petricek (http://programming-journal.org/2018/2/12/)
+One of the best "tutorials on monads". Very well put.
