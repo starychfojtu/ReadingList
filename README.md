@@ -44,3 +44,7 @@ Good read for someone starting in PHP !
 
 - **What we talk about when we talk about monads** by Tomas Petricek (http://programming-journal.org/2018/2/12/)
 One of the best "tutorials on monads". Very well put.
+
+- **Why most unit testing is waste** by James O Coplien (https://rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf)
+Pretty good summary of advices when unit testing is not required and how to detect tests you can safely remove.
+
