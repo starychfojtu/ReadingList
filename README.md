@@ -4,6 +4,8 @@
 
 - [reading] **The Pragmatic Programmer: From Journeyman to Master** by Andrew Hunt, David Thomas (https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 
+- [reading] **Working Effectively with Legacy Code** by Michael Feathers (https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/ref=mt_paperback?_encoding=UTF8&me=&qid=)
+
 - [plan to read] **Coders at Work** by Peter Seibel (http://www.codersatwork.com/)
 
 - [plan to read] **Art of UNIX programming** by Eric S. Raymond (http://www.catb.org/esr/writings/taoup/)
