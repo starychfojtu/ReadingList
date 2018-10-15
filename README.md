@@ -2,7 +2,7 @@
 
 ## General programming books
 
-- **The Pragmatic Programmer: From Journeyman to Master** by Andrew Hunt, David Thomas (https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+- **The Pragmatic Programmer: From Journeyman to Master** by Andrew Hunt, David Thomas (https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)<br>
 Great book, served to me as a very nice summary of all things we should keep in mind as programmers. I can see myself reading some chapters again from time to time.
 
 - [reading] **Working Effectively with Legacy Code** by Michael Feathers (https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/ref=mt_paperback?_encoding=UTF8&me=&qid=)
