@@ -15,6 +15,8 @@ Great book, served to me as a very nice summary of all things we should keep in 
 
 ## Functional programming
 
+- [reading] **Category theory for programmers** by Bartosz Milewski (https://github.com/hmemcpy/milewski-ctfp-pdf)
+
 - **Functional Programming in Scala** by Paul Chiusano and Runar Bjarnason (https://www.manning.com/books/functional-programming-in-scala)<br>
 Amazing book ! I couldn't imagine better introduction to FP. It is not about Scala at all, but about core principles of functional programming. Highly recommended. This book tought me about what functional programming is, what are the
 basic constructs and then the more advance and abstract ones like monoids, monads, applicative functors etc.
