@@ -5,7 +5,8 @@
 - **The Pragmatic Programmer: From Journeyman to Master** by Andrew Hunt, David Thomas (https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)<br>
 Great book, served to me as a very nice summary of all things we should keep in mind as programmers. I can see myself reading some chapters again from time to time.
 
-- [reading] **Working Effectively with Legacy Code** by Michael Feathers (https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/ref=mt_paperback?_encoding=UTF8&me=&qid=)
+-  **Working Effectively with Legacy Code** by Michael Feathers (https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/ref=mt_paperback?_encoding=UTF8&me=&qid=)<br>
+Interesting book to pickup when dealing with some legacy code. The whole point of this book is to show you various ways how to get code under tests, so you can refactor it safely. Dropped it after a half or so, I see it more as a handbook to pickup when dealing with some similar problem.
 
 - [plan to read] **Coders at Work** by Peter Seibel (http://www.codersatwork.com/)
 
