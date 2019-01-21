@@ -34,6 +34,10 @@ Fine book, served me as a better documentation. It is very specific thought and 
 
 - [plan to read] **CLR via C#** by Jeffrey Richter (https://www.amazon.com/CLR-via-4th-Developer-Reference/dp/0735667454v)
 
+## Databases
+
+- [reading] **Big Data a NoSQL Databáze** (In czech) mainly by Doc. RNDr. Irena Holubová, Ph.D and Ing. Jiří Kosek (http://www.ksi.mff.cuni.cz/bigdata/)
+
 ## PHP
 
 - **Domain-Driven Design in PHP** by Carlos Buenosvinos, Christian Soronellas, and Keyvan Akbary (https://leanpub.com/ddd-in-php)<br>
