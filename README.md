@@ -8,12 +8,6 @@ Great book, served to me as a very nice summary of all things we should keep in 
 -  **Working Effectively with Legacy Code** by Michael Feathers (https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/ref=mt_paperback?_encoding=UTF8&me=&qid=)<br>
 Interesting book to pickup when dealing with some legacy code. The whole point of this book is to show you various ways how to get code under tests, so you can refactor it safely. Dropped it after a half or so, I see it more as a handbook to pickup when dealing with some similar problem.
 
-- [plan to read] **Coders at Work** by Peter Seibel (http://www.codersatwork.com/)
-
-- [plan to read] **Art of UNIX programming** by Eric S. Raymond (http://www.catb.org/esr/writings/taoup/)
-
-- [plan to read] **The Mythical Man-Month: Essays on Software Engineering** by Frederick P. Brooks Jr. (https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month)
-
 ## Functional programming
 
 - **Category theory for programmers** by Bartosz Milewski (https://github.com/hmemcpy/milewski-ctfp-pdf) <br>
@@ -32,11 +26,10 @@ Big honor to Scott, he has given us so much material to learn FP and F# from. Th
 - **Pro ASP.NET Core MVC** by Freeman Adam (https://www.apress.com/gp/book/9781484203972)<br>
 Fine book, served me as a better documentation. It is very specific thought and I didn't find the examples very good in terms of general programming architecture, but sufficient for this specific enviroment.
 
-- [plan to read] **CLR via C#** by Jeffrey Richter (https://www.amazon.com/CLR-via-4th-Developer-Reference/dp/0735667454v)
-
 ## Databases
 
-- [reading] **Big Data a NoSQL Databáze** (In czech) mainly by Doc. RNDr. Irena Holubová, Ph.D and Ing. Jiří Kosek (http://www.ksi.mff.cuni.cz/bigdata/)
+- **Big Data a NoSQL Databáze** (In czech) mainly by Doc. RNDr. Irena Holubová, Ph.D and Ing. Jiří Kosek (http://www.ksi.mff.cuni.cz/bigdata/)<br>
+Great book that has widen my knowledge of NoSql. Contrary to other books, this one goes more deeply into the principles like distributed transactions, replication or graph indexing.
 
 ## PHP
 
@@ -49,10 +42,6 @@ I learned how to make use of HTTP verbs, resources and HATEOS.
 
 - **PHP the right way** by Josh Lockhart (http://www.phptherightway.com/)<br>
 Good read for someone starting in PHP !
-
-## Others
-
-- [plan to read] **Recommender Systems Handbook** (http://www.springer.com/us/book/9780387858203)
 
 ## Papers
 
