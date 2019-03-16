@@ -23,6 +23,8 @@ Big honor to Scott, he has given us so much material to learn FP and F# from. Th
 
 ## .NET
 
+- [reading] **Concurrency in .NET** by Riccardo Terrell (https://www.manning.com/books/concurrency-in-dot-net)
+
 - **Pro ASP.NET Core MVC** by Freeman Adam (https://www.apress.com/gp/book/9781484203972)<br>
 Fine book, served me as a better documentation. It is very specific thought and I didn't find the examples very good in terms of general programming architecture, but sufficient for this specific enviroment.
 
