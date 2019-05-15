@@ -33,6 +33,10 @@ Fine book, served me as a better documentation. It is very specific thought and 
 - **Big Data a NoSQL Databáze** (In czech) mainly by Doc. RNDr. Irena Holubová, Ph.D and Ing. Jiří Kosek (http://www.ksi.mff.cuni.cz/bigdata/)<br>
 Great book that has widen my knowledge of NoSql. Contrary to other books, this one goes more deeply into the principles like distributed transactions, replication or graph indexing.
 
+## Recommendation systems
+
+-- [reading] **Recommender Systems Handbook** by Ricci, F., Rokach, L., Shapira, B., Kantor (https://www.springer.com/gp/book/9780387858203)
+
 ## PHP
 
 - **Domain-Driven Design in PHP** by Carlos Buenosvinos, Christian Soronellas, and Keyvan Akbary (https://leanpub.com/ddd-in-php)<br>
