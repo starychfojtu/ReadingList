@@ -35,7 +35,7 @@ Great book that has widen my knowledge of NoSql. Contrary to other books, this o
 
 ## Recommendation systems
 
--- [reading] **Recommender Systems Handbook** by Ricci, F., Rokach, L., Shapira, B., Kantor (https://www.springer.com/gp/book/9780387858203)
+- [reading] **Recommender Systems Handbook** by Ricci, F., Rokach, L., Shapira, B., Kantor (https://www.springer.com/gp/book/9780387858203)
 
 ## PHP
 
