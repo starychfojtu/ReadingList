@@ -19,7 +19,7 @@ Amazing book ! I couldn't imagine better introduction to FP. It is not about Sca
 basic constructs and then the more advance and abstract ones like monoids, monads, applicative functors etc.
 
 - **FSharp for fun and profit** by Scott Wlaschin (https://fsharpforfunandprofit.com/books/)<br>
-Big honor to Scott, he has given us so much material to learn FP and F# from. This is just a must read for someone new to FP or F#. I learned so much from him such as proper domain modeling, composition or removing circular dependencies.
+Big kudos to Scott, he has given us so much material to learn FP and F# from. This is just a must read for someone new to FP or F#. I learned so much from him such as proper domain modeling, composition and many other.
 
 ## .NET
 
@@ -43,8 +43,8 @@ Great book that has widen my knowledge of NoSql. Contrary to other books, this o
 Nice intro to DDD with PHP examples. Didn't read to the end, but found it good.
 
 - **Build APIs You Won't Hate** by Phil Sturgeon (https://leanpub.com/build-apis-you-wont-hate)<br>
-Very good introduction to building REST APIS, it teaches you how really should REST API look like and also why ! 
-I learned how to make use of HTTP verbs, resources and HATEOS.
+Very good introduction to building REST APIS, it teaches you how really should REST API look like and also why.
+Shows how to make use of HTTP verbs, resources and HATEOS.
 
 - **PHP the right way** by Josh Lockhart (http://www.phptherightway.com/)<br>
 Good read for someone starting in PHP !
