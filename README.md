@@ -26,7 +26,7 @@ Big kudos to Scott, he has given us so much material to learn FP and F# from. Th
 - [reading] **Concurrency in .NET** by Riccardo Terrell (https://www.manning.com/books/concurrency-in-dot-net)
 
 - **Pro ASP.NET Core MVC** by Freeman Adam (https://www.apress.com/gp/book/9781484203972)<br>
-Fine book, served me as a better documentation. It is very specific thought and I didn't find the examples very good in terms of general programming architecture, but sufficient for this specific enviroment.
+Fine book, served me as a better documentation. It is very specific though and I didn't find the examples very good in terms of general programming principles, but sufficient for this specific enviroment.
 
 ## Databases
 
@@ -35,7 +35,8 @@ Great book that has widen my knowledge of NoSql. Contrary to other books, this o
 
 ## Recommendation systems
 
-- [reading] **Recommender Systems Handbook** by Ricci, F., Rokach, L., Shapira, B., Kantor (https://www.springer.com/gp/book/9780387858203)
+- **Recommender Systems Handbook** by Ricci, F., Rokach, L., Shapira, B., Kantor (https://www.springer.com/gp/book/9780387858203)<br>
+Very exhaustive book with almost thousand pages. I read manily first few chapters introducing the topic and it did a good job.
 
 ## PHP
 
