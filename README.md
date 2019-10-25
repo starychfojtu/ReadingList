@@ -36,7 +36,7 @@ Great book that has widen my knowledge of NoSql. Contrary to other books, this o
 ## Recommendation systems
 
 - **Recommender Systems Handbook** by Ricci, F., Rokach, L., Shapira, B., Kantor (https://www.springer.com/gp/book/9780387858203)<br>
-Very exhaustive book with almost thousand pages. I read manily first few chapters introducing the topic and it did a good job.
+Very exhaustive book with almost thousand pages. I read mainly first few chapters introducing the topic in general and it did a good job.
 
 ## PHP
 
