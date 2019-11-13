@@ -8,6 +8,8 @@ Great book, served to me as a very nice summary of all things we should keep in 
 -  **Working Effectively with Legacy Code** by Michael Feathers (https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/ref=mt_paperback?_encoding=UTF8&me=&qid=)<br>
 Interesting book to pickup when dealing with some legacy code. The whole point of this book is to show you various ways how to get code under tests, so you can refactor it safely. Dropped it after a half or so, I see it more as a handbook to pickup when dealing with some similar problem.
 
+- [reading] **SRE at Google** by Google (https://landing.google.com/sre/sre-book/toc/)
+
 ## Functional programming
 
 - **Category theory for programmers** by Bartosz Milewski (https://github.com/hmemcpy/milewski-ctfp-pdf) <br>
