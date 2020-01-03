@@ -54,6 +54,9 @@ Good read for someone starting in PHP !
 
 ## Papers
 
+- **Out of the tar pit** by Peter Marks and Ben Moseley (https://github.com/papers-we-love/papers-we-love/blob/master/design/out-of-the-tar-pit.pdf)
+Paper discussing complexity with some contrast on Brooks' silver bullet.
+
 - **What we talk about when we talk about monads** by Tomas Petricek (http://programming-journal.org/2018/2/12/)
 One of the best "tutorials on monads". Very well put.
 
