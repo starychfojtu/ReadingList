@@ -16,6 +16,9 @@ Interesting book to pickup when dealing with some legacy code. The whole point o
 Excellent book that gets you into CT pretty quickly. If this would be your first shot with CT, then you will
 certainly find helpful Bartosz's talks on youtube, which are great way to deepen the gained knowledge. (https://www.youtube.com/watch?v=I8LbkfSSR58)
 
+- **Algebra-Driven design** by Sandy Maguire (https://algebradriven.design/) <br>
+Great read on how to get deep insight into an algebra of your library. This can help greatly if you want to splify the API of the library to the minimal orthogonal operations and maybe even generate the implementation and tests instead of writing it!
+
 - **Functional Programming in Scala** by Paul Chiusano and Runar Bjarnason (https://www.manning.com/books/functional-programming-in-scala)<br>
 Amazing book ! I couldn't imagine better introduction to FP. It is not about Scala at all, but about core principles of functional programming. Highly recommended. This book tought me about what functional programming is, what are the
 basic constructs and then the more advance and abstract ones like monoids, monads, applicative functors etc.
