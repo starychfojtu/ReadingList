@@ -8,7 +8,7 @@ Great book, served to me as a very nice summary of all things we should keep in 
 -  **Working Effectively with Legacy Code** by Michael Feathers (https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/ref=mt_paperback?_encoding=UTF8&me=&qid=)<br>
 Interesting book to pickup when dealing with some legacy code. The whole point of this book is to show you various ways how to get code under tests, so you can refactor it safely. Dropped it after a half or so, I see it more as a handbook to pickup when dealing with some similar problem.
 
-- [reading] **Site Reliability Engineering - Google** by Betsy Beyer, Chris Jones, Jennifer Petoff and Niall Richard Murphy (https://landing.google.com/sre/sre-book/toc/)
+- **Site Reliability Engineering - Google** by Betsy Beyer, Chris Jones, Jennifer Petoff and Niall Richard Murphy (https://landing.google.com/sre/sre-book/toc/)
 
 ## Functional programming
 
@@ -28,7 +28,7 @@ Big kudos to Scott, he has given us so much material to learn FP and F# from. Th
 
 ## .NET
 
-- [reading] **Concurrency in .NET** by Riccardo Terrell (https://www.manning.com/books/concurrency-in-dot-net)
+- **Concurrency in .NET** by Riccardo Terrell (https://www.manning.com/books/concurrency-in-dot-net)
 
 - **Pro ASP.NET Core MVC** by Freeman Adam (https://www.apress.com/gp/book/9781484203972)<br>
 Fine book, served me as a better documentation. It is very specific though and I didn't find the examples very good in terms of general programming principles, but sufficient for this specific enviroment.
