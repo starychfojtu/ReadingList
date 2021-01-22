@@ -55,6 +55,10 @@ Shows how to make use of HTTP verbs, resources and HATEOS.
 - **PHP the right way** by Josh Lockhart (http://www.phptherightway.com/)<br>
 Good read for someone starting in PHP !
 
+## Blinklist (https://www.blinkist.com/)
+
+- **The Scrum fieldbook** by Jeffrey Victor Sutherland
+
 ## Papers
 
 - **Out of the tar pit** by Peter Marks and Ben Moseley (https://github.com/papers-we-love/papers-we-love/blob/master/design/out-of-the-tar-pit.pdf)
