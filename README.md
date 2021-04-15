@@ -1,5 +1,11 @@
 # ReadingList
 
+## Managment and Leadership
+
+- **The Leadership Pipelin** by Ram Charan, Stephen Drotter, James Noel (https://www.amazon.com/Leadership-Pipeline-Build-Powered-Company/dp/0470894563)
+
+- **Radical candor** by Kim Scott (https://www.radicalcandor.com/)
+
 ## General programming books
 
 - **The Pragmatic Programmer: From Journeyman to Master** by Andrew Hunt, David Thomas (https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)<br>
@@ -54,10 +60,6 @@ Shows how to make use of HTTP verbs, resources and HATEOS.
 
 - **PHP the right way** by Josh Lockhart (http://www.phptherightway.com/)<br>
 Good read for someone starting in PHP !
-
-## Blinklist (https://www.blinkist.com/)
-
-- **The Scrum fieldbook** by Jeffrey Victor Sutherland
 
 ## Papers
 
