@@ -2,7 +2,7 @@
 
 ## Managment and Leadership
 
-- **The Leadership Pipelin** by Ram Charan, Stephen Drotter, James Noel (https://www.amazon.com/Leadership-Pipeline-Build-Powered-Company/dp/0470894563)
+- **The Leadership Pipeline** by Ram Charan, Stephen Drotter, James Noel (https://www.amazon.com/Leadership-Pipeline-Build-Powered-Company/dp/0470894563)
 
 - **Radical candor** by Kim Scott (https://www.radicalcandor.com/)
 
