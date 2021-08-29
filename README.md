@@ -4,7 +4,7 @@
 
 - **The Leadership Pipeline** by Ram Charan, Stephen Drotter, James Noel (https://www.amazon.com/Leadership-Pipeline-Build-Powered-Company/dp/0470894563)
 
-- [reading] **The Manager's Path** by Camille Fournier (https://www.oreilly.com/library/view/the-managers-path/9781491973882/)
+- **The Manager's Path** by Camille Fournier (https://www.oreilly.com/library/view/the-managers-path/9781491973882/)
 
 - [reading] **Radical candor** by Kim Scott (https://www.radicalcandor.com/)
 
