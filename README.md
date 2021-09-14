@@ -6,6 +6,8 @@
 
 - **The Manager's Path** by Camille Fournier (https://www.oreilly.com/library/view/the-managers-path/9781491973882/)
 
+- **Staff Engineer: Leadership beyond the management track** by Will Larson (https://staffeng.com/book)
+
 - [reading] **Radical candor** by Kim Scott (https://www.radicalcandor.com/)
 
 ## General programming books
