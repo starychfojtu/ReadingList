@@ -10,6 +10,8 @@
 
 - [reading] **Radical candor** by Kim Scott (https://www.radicalcandor.com/)
 
+- [reading] **Team topologies** by Matthew Skelton and Manuel Pais (https://teamtopologies.com/)
+
 ## General programming books
 
 - **The Pragmatic Programmer: From Journeyman to Master** by Andrew Hunt, David Thomas (https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)<br>
