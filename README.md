@@ -8,7 +8,7 @@
 
 - **Staff Engineer: Leadership beyond the management track** by Will Larson (https://staffeng.com/book)
 
-- [reading] **Radical candor** by Kim Scott (https://www.radicalcandor.com/)
+- **Radical candor** by Kim Scott (https://www.radicalcandor.com/)
 
 - [reading] **Team topologies** by Matthew Skelton and Manuel Pais (https://teamtopologies.com/)
 
