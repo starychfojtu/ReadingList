@@ -2,6 +2,8 @@
 
 ## Managment and Leadership
 
+- **Good to Great** by Jim Collins (https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996)
+
 - **The Leadership Pipeline** by Ram Charan, Stephen Drotter, James Noel (https://www.amazon.com/Leadership-Pipeline-Build-Powered-Company/dp/0470894563)
 
 - **The Manager's Path** by Camille Fournier (https://www.oreilly.com/library/view/the-managers-path/9781491973882/)
