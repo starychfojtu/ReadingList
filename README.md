@@ -14,6 +14,12 @@
 
 - [reading] **Team topologies** by Matthew Skelton and Manuel Pais (https://teamtopologies.com/)
 
+- [reading] **Technology strategy patterns** by Eben Hewitt (https://www.amazon.com/Technology-Strategy-Patterns-Architecture/dp/1492040878)
+
+- [reading] **HBR's 10 Must Reads on Managing People** by Harvard Business Review (https://www.amazon.com/HBRs-Must-Reads-Managing-People/dp/1511367245)
+
+- [reading] **Never Split the Difference** by Tahl Raz (https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805)
+
 ## General programming books
 
 - **The Pragmatic Programmer: From Journeyman to Master** by Andrew Hunt, David Thomas (https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)<br>
